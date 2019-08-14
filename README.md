@@ -1,1 +1,1 @@
-# Quick-Product-Preview
+# Magento 2 Quick Product Preview
